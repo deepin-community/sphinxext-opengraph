@@ -1,5 +1,61 @@
-template-repository (1.0-1) unstable; urgency=medium
+sphinxext-opengraph (0.7.5-1) unstable; urgency=low
 
-  * Initial release
+  * Update to version 0.7.5.
+  * Update standards version.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Wed, 18 Jan 2023 09:22:26 +0000
+
+sphinxext-opengraph (0.7.2-1) unstable; urgency=low
+
+  * Update to version 0.7.2.
+  * Update standards version.
+  * Retrieve version from changelog.
+
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Thu, 03 Nov 2022 20:56:27 +0000
+
+sphinxext-opengraph (0.6.3-1) unstable; urgency=low
+
+  * Update to version 0.6.3.
+
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Tue, 29 Mar 2022 07:36:35 +0000
+
+sphinxext-opengraph (0.6.2-1) unstable; urgency=low
+
+  * Update to version 0.6.2.
+
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Fri, 11 Mar 2022 20:49:47 +0000
+
+sphinxext-opengraph (0.6.1-1) unstable; urgency=low
+
+  * Update to version 0.6.1.
+
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Fri, 25 Feb 2022 00:10:12 +0000
+
+sphinxext-opengraph (0.5.1-1) unstable; urgency=low
+
+  [ Chiara Marmo ]
+  * Update to version 0.5.1. Run tests after build
+
+  [ Jeroen Ploemen ]
+  * d/source/options: ignore egg-info to prevent ftbfs when building
+    twice in a row.
+
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Mon, 03 Jan 2022 09:29:27 +0000
+
+sphinxext-opengraph (0.5.0-1) unstable; urgency=low
+
+  * Update to version 0.5.0.
+
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Mon, 29 Nov 2021 19:39:51 +0000
+
+sphinxext-opengraph (0.4.2-2) unstable; urgency=low
+
+  * Source only upload.
+
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Tue, 23 Nov 2021 04:42:37 +0000
+
+sphinxext-opengraph (0.4.2-1) unstable; urgency=low
+
+  * Initial release. (Closes: #999741)
+
+ -- Chiara Marmo <marmochiaskl@gmail.com>  Mon, 15 Nov 2021 09:12:09 +0000
